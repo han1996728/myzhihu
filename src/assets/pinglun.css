@@ -1,0 +1,140 @@
+.watting{
+    height: 9.8rem;
+    width: 100%;
+    background: white;
+    font-size: 0.3rem;
+    line-height: 5.34rem;
+    text-align: center;
+}
+.sofa {
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -1.2rem;
+    margin-top: -1.5rem;
+}
+
+.top_one {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    background: #00a2ed;
+    height: 1.2rem;
+    overflow: hidden;
+}
+
+.top_one .icon-fanhuijiantou {
+    height: 0.4rem;
+    margin-left: 0.3rem;
+    text-align: center;
+    font-size: 0.42rem;
+    color: #fff;
+    display: inline-block;
+    margin-top: 0.42rem
+}
+
+.top_one h1 {
+    display: block;
+    color: #fff;
+    font-size: 0.35rem;
+    margin-left: 0.3rem;
+    float: right;
+    margin-top: 0.44rem;
+    margin-right: 4.8rem;
+}
+
+.top_one h1 span {
+    display: inline-block;
+    margin-left: 0.1rem
+}
+
+.top_one .icon-comment-copy {
+    font-size: 0.4rem;
+    color: #fff;
+    float: left;
+    margin-top: -0.57rem;
+    margin-left: 6.7rem;
+}
+
+/*长评论*/
+.longcomment {
+    margin-top: 1.2rem;
+}
+
+.longcomment_top {
+    width: 100%;
+    height: 1rem;
+    line-height: 1rem;
+    font-size: 0.3rem;
+    padding-left: 0.3rem;
+    letter-spacing: 0.02rem;
+    border-bottom: 0.01rem solid #ccc
+}
+
+.longcomment_two {
+    padding-bottom: 0.3rem;
+}
+.longallcomment {
+    padding-top:0.3rem;
+    border-top:0.01rem solid #ccc
+}
+.longcomment_two .head_photo {
+    border-radius: 50%;
+    display: inline-block;
+    margin-left:0.3rem
+}
+
+.two_content .screen_name {
+    float: left;
+    margin-top: -1rem;
+    margin-left: 1.7rem;
+    font-size: 0.3rem;
+    font-weight: 600;
+}
+
+.icon-zan1 {
+    float: right;
+    display: inline-block;
+    margin-top: -1rem;
+    margin-right: 0.3rem;
+    color: #b8b8b8;
+}
+
+.comment_content {
+    margin-bottom: 0.3rem;
+    margin-left: 1.7rem;
+    padding-right: 0.8rem;
+    font-size: 0.3rem;
+    line-height: 0.4rem;
+}
+.comment_time{
+    margin-left:1.6rem;
+    color:#b4b4b4;
+    margin-bottom:0.3rem
+}
+.pin-main{
+    width: 100%;
+    height: 1rem;
+    line-height: 0.9rem;
+    border-bottom: 0.01rem solid #ccc;
+    border-top: 0.01rem solid #ccc;
+}
+.pin-main p{
+    margin-left: 0.3rem;
+    display: inline-block;
+}
+.pin-main span{
+    float: right;
+    margin-right: 0.35rem;
+    font-size: 0.5rem;
+    color:#CCCCCC;
+}
+.dontknow{
+    margin-left:1.65rem;
+    line-height: 0.4rem;
+    padding-right:0.8rem;
+    margin-bottom:0.2rem
+}

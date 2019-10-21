@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhankai" unicode="&#58637;" d="M512 415.415l-258.036-258.036 41.904-41.904 216.13 216.129 216.129-216.129 41.90400001 41.904-258.036 258.036zM728.129 352.58500000000004l41.904 41.904-258.036 258.036-258.036-258.036 41.904-41.904 216.13 216.13 216.129-216.13z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zhankai1" unicode="&#59406;" d="M511.567 320.267l260.679 260.68-42.336 42.336-218.343-218.344-218.344 218.344-42.34-42.335 260.684-260.68zM293.223 383.77l-42.34-42.335 260.684-260.68 260.679 260.68-42.336 42.335-218.343-218.345L293.223 383.77z m218.344-218.345"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

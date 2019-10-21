@@ -1,0 +1,70 @@
+.topp {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    background: #00a2ed;
+    height: 1.2rem;
+    overflow: hidden;
+}
+
+.topp .icon-quanbu {
+    height: 0.4rem;
+    margin-left: 0.3rem;
+    text-align: center;
+    font-size: 0.42rem;
+    color: #fff;
+    display: inline-block;
+    margin-top: 0.42rem
+}
+
+.topp h1 {
+    display: block;
+    color: #fff;
+    font-size: 0.35rem;
+    margin-left: 0.3rem;
+    float: right;
+    margin-top: 0.44rem;
+    margin-right: 6.2rem;
+}
+.topp .tiaozi{
+    display: block;
+    color: #fff;
+    font-size: 0.35rem;
+    margin-left: 0.3rem;
+    float: right;
+    margin-right: 5rem;
+    margin-top: -0.602rem;
+    letter-spacing:0.02rem;
+    line-height: 0.41rem;
+}
+.todayMain_one{
+    margin-top:1.5rem
+}
+.todayMain_one li {
+    width: 94%;
+    height: 2rem;
+    background: #fff;
+    margin: auto;
+    border-radius: 0.2rem;
+    font-size: 0.33rem;
+    margin-bottom: 0.2rem;
+    overflow: hidden;
+    font-weight:500;
+}
+
+.todayMain_one li img {
+    width: 1.8rem;
+    height: 1.4rem;
+    float: left;
+    margin-top: 0.3rem;
+}
+.todayMain_one li p {
+    width: 4.4rem;
+    float: left;
+    margin-top:0.3rem;
+    margin-left:0.2rem;
+    padding-left:0.1rem;
+    padding-right:0.2rem;
+    line-height: 0.45rem;
+}
